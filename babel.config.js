@@ -9,19 +9,9 @@ module.exports = {
     ],
     [
       '@babel/preset-env',
-      { useBuiltIns: 'entry', corejs: '3.0', bugfixes: true }
-    ],
-    [
-      '@vue/app',
-      {
-        polyfills: ['es.promise', 'es.symbol']
-      }
-    ],
-    [
-      '@babel/preset-env',
       {
         targets: {
-          browsers: ['iOS >= 11']
+          browsers: ['iOS >= 12']
         },
         useBuiltIns: 'entry',
         corejs: 3
