@@ -867,9 +867,9 @@
     "@babel/helper-create-regexp-features-plugin" "^7.22.15"
     "@babel/helper-plugin-utils" "^7.22.5"
 
-"@babel/preset-env@^7.12.16":
+"@babel/preset-env@^7.12.16", "@babel/preset-env@^7.23.5":
   version "7.23.5"
-  resolved "https://registry.npmmirror.com/@babel/preset-env/-/preset-env-7.23.5.tgz#350a3aedfa9f119ad045b068886457e895ba0ca1"
+  resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.23.5.tgz#350a3aedfa9f119ad045b068886457e895ba0ca1"
   integrity sha512-0d/uxVD6tFGWXGDSfyMD1p2otoaKmu6+GD+NfAx0tMaH+dxORnp7T9TaVQ6mKyya7iBtCIVxHjWT7MuzzM9z+A==
   dependencies:
     "@babel/compat-data" "^7.23.5"
@@ -1607,9 +1607,9 @@
   resolved "https://registry.npmmirror.com/@vue/cli-overlay/-/cli-overlay-5.0.8.tgz#b61477acdc43bbd42fce6326d228471201ecdcdd"
   integrity sha512-KmtievE/B4kcXp6SuM2gzsnSd8WebkQpg3XaB6GmFh1BJGRqa1UiW9up7L/Q67uOdTigHxr5Ar2lZms4RcDjwQ==
 
-"@vue/cli-plugin-babel@~5.0.0":
+"@vue/cli-plugin-babel@^5.0.8":
   version "5.0.8"
-  resolved "https://registry.npmmirror.com/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.8.tgz#54f9a07900f29baff54803dcfa916c602894feb7"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.8.tgz#54f9a07900f29baff54803dcfa916c602894feb7"
   integrity sha512-a4qqkml3FAJ3auqB2kN2EMPocb/iu0ykeELwed+9B1c1nQ1HKgslKMHMPavYx3Cd/QAx2mBD4hwKBqZXEI/CsQ==
   dependencies:
     "@babel/core" "^7.12.16"
