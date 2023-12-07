@@ -7,6 +7,12 @@ module.exports = {
         corejs: 3
       }
     ],
+    ['@vue/app', {
+      polyfills: [
+        'es.promise',
+        'es.symbol'
+      ]
+    }],
     [
       '@babel/preset-env',
       {
